@@ -1,0 +1,10 @@
+aiohttp
+gidgethub
+PyJWT
+cryptography
+python-dotenv
+cachetools
+sentry-sdk
+git-python
+git+https://github.com/uktrade/pii-secret-check-hooks/
+
